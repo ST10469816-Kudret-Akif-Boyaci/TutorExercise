@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\emeris\\source\\repos\\TutorClassExercise\\",
+  "WorkspaceRootPath": "C:\\Users\\emeris\\Documents\\GitHub\\TutorExercise\\TutorClassExercise\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07FB4C10-8D77-4152-8536-09F78248EDBA}|TutorClassExercise\\TutorClassExercise.csproj|c:\\users\\emeris\\source\\repos\\tutorclassexercise\\tutorclassexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{07FB4C10-8D77-4152-8536-09F78248EDBA}|TutorClassExercise\\TutorClassExercise.csproj|solutionrelative:tutorclassexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AC14303-CE5C-F3F7-7D5B-4E0C4749343C}|TutorClassExercise\\TutorClassExercise.csproj|c:\\users\\emeris\\documents\\github\\tutorexercise\\tutorclassexercise\\tutorclassexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AC14303-CE5C-F3F7-7D5B-4E0C4749343C}|TutorClassExercise\\TutorClassExercise.csproj|solutionrelative:tutorclassexercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,21 +25,21 @@
               "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emeris\\source\\repos\\TutorClassExercise\\TutorClassExercise\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\emeris\\Documents\\GitHub\\TutorExercise\\TutorClassExercise\\TutorClassExercise\\Program.cs",
               "RelativeDocumentMoniker": "TutorClassExercise\\Program.cs",
-              "ToolTip": "C:\\Users\\emeris\\source\\repos\\TutorClassExercise\\TutorClassExercise\\Program.cs",
+              "ToolTip": "C:\\Users\\emeris\\Documents\\GitHub\\TutorExercise\\TutorClassExercise\\TutorClassExercise\\Program.cs",
               "RelativeToolTip": "TutorClassExercise\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-14T08:28:49.377Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
             }
           ]
         }
